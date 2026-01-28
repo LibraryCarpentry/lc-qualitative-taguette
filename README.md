@@ -2,7 +2,7 @@
 
 ## Description
 
-Curriculum for an interactive Carpentries-style introduction to principles and practices of open qualitative research transparency and data sharing,with a focus on text or transcribed data, to be delivered as a 3-hour in-person or synchronous hybrid workshop. Paid qualitative software will be discussed, but is not part of the workshop. More details in [lesson introduction](https://ucla-imls-open-sci.info/open-qualitative-research/)
+Curriculum for an interactive introduction to principles and practices of open qualitative research transparency and data sharing,with a focus on text or transcribed data, to be delivered as a 3-hour in-person, synchronous online, or hybrid workshop. Paid qualitative software will be discussed, but is not part of the workshop. More details in [lesson introduction](https://LibraryCarpentry.github.io/lc-open-qualitative-research/)
 
 ## Authors
 
@@ -10,11 +10,11 @@ Curriculum for an interactive Carpentries-style introduction to principles and p
 
 ## Acknowledgements
 
-Pilot work for this project was supported by a grant from the IMLS in collaboration with the UCLA Libraries and Virginia Tech University Libraries. LINKS TO BE ADDED LATER
+Pilot work for this project was supported by two grants from the [IMLS](https://www.imls.gov/) in collaboration with the [UCLA Libraries](https://ucla-imls-open-sci.info/), [Virginia Tech University Libraries](https://lib.vt.edu), and the [Qualitative Data Repository](https://qdr.syr.edu/).
 
 ## Contributing
 
-This curriculum is in early development. If you'd like to contribute, you can open an issue or pull request or contact the creator, [Nathaniel Porter](mailto:ndporter@vt.edu): @ndporter
+This curriculum is in open beta testing. It is ready to teach and has been taught but is still being significantly refined and expanded. If you'd like to contribute, you can open an issue or pull request or contact the creator, [Nathaniel Porter](mailto:ndporter@vt.edu): @ndporter.
 
 ## License
 
