@@ -127,7 +127,7 @@ The project includes the following four types of files:
 -   `txt` files are plain text and can be opened in any notepad or document software
 -   `pdf` files can be opened with `Adobe Reader` or other document software
 -   `nvpx` files are NVivo for Mac projects and can only be opened in NVivo for Mac or converted in NVivo for Windows to a Windows format
--   `qdpx` files are the REFI-QDA qualitative interchange format and can be opened in a variety of qualitative software
+-   `qdpx` files use the REFI-QDA qualitative interchange [project format](https://www.qdasoftware.org/project) and can be imported into a variety of qualitative software
 
 In this project, the `txt` files provide *metadata*, or information about the project, while all other files are part of the data itself. Taguette can't read `nvpx` or `qdpx` files, so the most important files to us will be the `pdf` interview transcripts.
 
