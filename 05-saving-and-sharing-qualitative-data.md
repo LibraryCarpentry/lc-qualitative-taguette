@@ -29,9 +29,9 @@ Data sharing and interchangeable data formats have only recently become someone 
 
 ## Import and export in Taguette
 
-Taguette projects are automatically saved either to the cloud or your local computer, depending on whether you use the local `Single-user mode` or sign into [Taguette Cloud][[taguette_cloud].
+Taguette projects are automatically saved either to the cloud or your local computer, depending on whether you use the local `Single-user mode` or sign into [Taguette Cloud][taguette_cloud].
 
-Projects and codebooks can both be exported and imported in Taguette. Projects exported from the `Project info` tab are saved as `sqlite3` databases. They're designed primarily for personal archiving and sharing or moving between cloud and local versions, so they work best if opened in Taguette. There is no tool currently available to automatically convert a Taguette project to a format compatible with other CAQDAS, although `sqlite3` is an open database format. This means the data can be accessed using other compatible software even if Taguette is no longer usable, although databases are not designed for qualitative analysis off the shelf.
+Projects and codebooks can both be exported and imported in Taguette. Projects exported from the `Project info` tab are saved as `sqlite3` databases. They're designed primarily for personal archiving and sharing or moving between cloud and local versions of Taguette, but can also be imported into [QualCoder](https://qualcoder.wordpress.com/how-to-use/) (version 3.8+).
 
 To import a previously-exported project in Taguette, click `Home` at the top to exit to the projects list. From there, click `Import a project file`, find the file you saved, and import. All documents, highlights, and tags should be intact.
 
