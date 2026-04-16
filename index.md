@@ -16,6 +16,14 @@ No experience with qualitative software or QDR is necessary.
 
 ::: 
 
+::: callout
+
+## Timing
+
+This lesson is designed to be taught as a 3-4 hour standalone workshop, but can also be taught together with [QualCoder](https://librarycarpentry.github.io/lc-qualitative-qualcoder/) as a full-day (6-7 hour) qualitative research workshop. See [Instructor Notes](./instructors/instructor-notes.md) for recommendations.
+
+:::
+
 We will annotate, analyze, and prepare to archive interview transcripts from a qualitative study of abortion reporting, focused on how participants decide whether to allow sharing data they provide on sensitive topics. Neither the original study nor this lesson proposes to draw conclusions on the political, legal, or moral aspects of abortion.
 
 The [original study](https://doi.org/10.1177/10497323211054058) concluded that not all participants fully understood the concept of data sharing and thus may not be able to give fully informed consent.
