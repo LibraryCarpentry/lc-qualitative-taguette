@@ -1,4 +1,4 @@
-# Open Qualitative Research
+# Open Qualitative Research with Taguette
 
 ## Description
 
