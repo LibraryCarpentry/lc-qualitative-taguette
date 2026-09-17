@@ -2,7 +2,7 @@
 site: sandpaper::sandpaper_site
 ---
 
-This lesson familiarizes learners with the application of open science principles to qualitative research, with a focus on documents or transcribed text in a variety of data formats. Learners will practice working with secondary qualitative data from the Qualitative Data Repository (QDR) in the free software Taguette and discuss the options and limitations for open research with proprietary qualitative analysis packages, including options for sharing both source data and coded analysis projects.
+This lesson familiarizes learners with the application of open science principles to qualitative research, with a focus on documents or transcribed text in a variety of data formats. Learners will practice working with secondary qualitative data from the [Qualitative Data Repository][qdr] (QDR) in the free software Taguette and discuss the options and limitations for open research with proprietary qualitative analysis packages, including options for sharing both source data and coded analysis projects.
 
 ::: prereq 
 
@@ -24,11 +24,14 @@ This lesson is designed to be taught as a 3-4 hour standalone workshop, but can 
 
 :::
 
-We will annotate, analyze, and prepare to archive interview transcripts from a qualitative study of abortion reporting, focused on how participants decide whether to allow sharing data they provide on sensitive topics. Neither the original study nor this lesson proposes to draw conclusions on the political, legal, or moral aspects of abortion.
+## Acknowledgments
 
-The [original study](https://doi.org/10.1177/10497323211054058) concluded that not all participants fully understood the concept of data sharing and thus may not be able to give fully informed consent.
-
-In the lesson, we will use the data to explore to what extent concerns identified about "fully informed consent" are also relevant to research on less sensitive topics. To do so, we will reanalyze a portion of the data, compare our coding to the original study's coding, and use both traditional and data analytic methods to draw a tentative conclusion before packaging our own work to archive and share for other researchers.
+This lesson was developed in part through grants from the [Institute of Museum and Library Services][imls], in collaboration with [QDR][qdr], the [Virginia Tech University Libraries][vt-lib], [Library Carpentry][lib-carpentry], and the [UCLA Library][ucla-lib]. We thank all contributors and reviewers.
 
 [os_lightning_talk]: https://youtu.be/QyFrR77UwyA?si=3TcKTPm9ZrDKZ_Mu
 [osper_playlist]: https://www.youtube.com/playlist?list=PLChfyH8TVDGl5JUEUxM5ehg6WdkEN-Lxd
+[qdr]: https://qdr.syr.edu
+[imls]: https://www.imls.gov/
+[vt-lib]: https://lib.vt.edu/
+[lib-carpentry]: https://librarycarpentry.org/
+[ucla-lib]: https://www.library.ucla.edu/
